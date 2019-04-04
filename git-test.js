@@ -1,3 +1,3 @@
 function gitTest() {
-    console.info('This is master branch.');
+    console.info('This is developOne2 branch.');
 }
